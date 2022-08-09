@@ -1,0 +1,120 @@
+/* stylesheet.css */
+.nairaland{
+    display: block;
+	margin-left:auto;
+	margin-right:auto;
+	
+}
+
+p{
+	text-align: center;
+	
+    }
+.container{
+	background-color:rgb(246,246,236);
+	margin:auto;
+	width: 80%;
+    border-radius: 10px;
+    margin:auto;
+}
+form{
+    text-align: center;
+}
+.forums{
+    text-align:center;
+    background:rgb(232,236,224);
+    border-radius:10px;
+    margin:auto;
+    max-width:1060px;
+    padding:1px;
+    font-size:20px;
+
+}
+.general{
+    color:rgb(24,24,96);
+    background-color:rgb(246,246,236);
+    margin:auto;
+    border-radius:10px;
+    max-width:1060px;
+
+}
+.p{
+text-align:left;}
+
+.entertainment{
+    background-color:rgb(232,236,224);
+    color:rgb(24,24,96);
+    margin:auto;
+    border-radius:10px;
+    max-width:1070px;
+    padding:1px;
+}
+.science{
+   color:rgb(24,24,96);
+   background-color:rgb(246,246,236);
+   margin:auto;
+   border-radius:10px;
+   padding: 1px;
+   max-width:1070px;}
+   
+.photos{
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.News{
+   text-align:center;
+   background-color: rgb(232,236,224);
+   border-radius:10px;
+   margin:auto;
+   max-width:1060px;
+   padding: 1px;}
+.Note{
+   color:rgb(24,24,96);
+   background-color:rgb(246,246,236);
+   margin:auto;
+   border-radius:10px;
+   padding: 1px;
+   max-width:1070px;
+   line-height: 2.0;}
+}
+.T3{
+    width:75%;
+    text-align:center;
+
+}
+.tl{
+    border-radius: 10px;
+    margin:10px;
+
+}
+.numbers{
+    text-align:center;
+    color:rgb(24,24,96);
+    background-color: rgb(232,236,224);
+    border-radius:10px;
+    margin:auto;
+    max-width:1060px;
+    padding: 1px;}
+.Members{
+    background-color:rgb(246,246,236);
+    margin:auto;
+    border-radius:10px;
+    padding: 1px;
+    max-width:1070px;
+}
+.capture{
+    width: 75%;
+    display: block;
+    margin-left:auto;
+    margin-right:auto;}
+.Go{
+color: rgb(24,24,141);}
+.last{
+color: rgb(24,24,96);}
+.disclaimer{
+    background-color:rgb(246,246,236);
+    margin:auto;
+    border-radius:10px;
+    padding: 1px;
+    max-width:1070px;	
